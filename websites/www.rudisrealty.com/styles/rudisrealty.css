@@ -1,0 +1,263 @@
+a:link {
+	text-decoration : none;
+	color: #0033CC;
+}
+a:visited {
+	text-decoration : none;
+	color: #993300;
+}
+a:hover {
+	text-decoration : underline;
+}
+a:link.logo {
+	text-decoration : none;
+	color: #CCCCCC;
+}
+a:visited.logo {
+	text-decoration : none;
+	color: #CCCCCC;
+}
+a:hover.logo {
+	text-decoration : underline;
+}
+a:link.header {
+	text-decoration : none;
+	color: #FFFFFF;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+}
+a:visited.header {
+	text-decoration : none;
+	color: #FFFFFF;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+}
+a:hover.header {
+	text-decoration : underline;
+	color: #FFFFFF;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: bolder;
+}
+body {
+	background-color: #FFFFFF;
+	margin: 0em;
+	padding: 0em;
+}
+hr { 
+	border:none 0; 
+	border-top:1px solid #006699;
+	height:1px;
+}
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #006699;
+}
+h2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #006699;
+	text-align: left;
+}
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #006699;
+}
+.alert {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FF0000;
+	font-size: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+.tableBODY {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-size: 10px;
+	text-align: left;
+	vertical-align: top;
+
+}
+.tableTITLE {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #195f80;
+	font-size: 10px;
+	text-align: left;
+}
+.tableSECTION {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #006699;
+	font-weight: bold;
+	font-size: 10px;
+}
+.tableSUBSECTION {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-weight: bold;
+	font-size: 10px;
+}
+.tableHEADER {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-weight: bold;
+	font-size: 12px;
+	text-align: center;
+
+}
+.tableREQUIRED {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FF0000;
+	font-size: 10px;
+	text-align: left;
+	font-weight: bold;
+}
+.formBUTTON {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #235D7B;
+	font-size: 9px;
+	border: 1px #666666 solid;
+}
+.formFIELD {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #006699;
+	font-size: 9px;
+	border: 1px #666666 solid;
+}
+.pageCONTACT {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #CCC;
+	font-size: 9px;
+	background-color: #195f80;
+	text-align: center;
+}
+.pageCOPYRIGHT {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-size: 9px;
+	text-align: center;
+}
+.pageHEADER {
+	background-color: #195f80;
+	background-position: center;
+}
+.pageFOOTER {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #003366;
+	font-size: 9px;
+	background-color: #FFFFFF;
+	text-align: center;
+}
+.montage {
+	background-color: #000000;
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.navigationGRADIENT {
+	background-color: #FFFFFF;
+	background-image: url(../images/gradient100.gif);
+	background-repeat: repeat-x;
+}
+.navigationLINE {
+	background-color: #000000;
+	text-align: center;
+}
+.pictureCAPTION {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-size: 9px;
+	text-align: center;
+}
+.pageCONTACTTable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #195f80;
+	font-size: 9px;
+	background-color: #CCCCCC;
+	border: thin solid #195f80;
+}
+.pageCONTACTHeader {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #CCCCCC;
+	font-size: 9px;
+	background-color: #195f80;
+	text-align: left;
+}
+.pageHEADERline {
+	background-color: #CCCCCC;
+	background-position: center;
+}
+
+.SearchHeading { font-size: 14pt; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; color:white; }
+.SubHeading	{
+	font-size: 14pt;
+	font-family: Arial;
+	color:white;
+	font-weight: bold;
+}
+.SearchPageTD {
+	font-size: 8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:black;
+	font-weight: normal;
+}
+.SearchBox	{
+	font-size: 8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+.ResultsHeading	{
+	font-size: 13pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color:#036;
+}
+.FeaturedHeading {
+	font-size: 13pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: 600;
+	color:#F03;
+}
+.ResultsRow {
+	font-size: 8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+.DetailsForMoreInformation {
+	font-size: 12pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color:#036;
+}
+.Details {
+	font-size: 8pt;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color:#036;
+}.pageCONTACTgrey {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-size: 9px;
+	background-color: #666666;
+	text-align: center;
+}
+.tableBODY tr .tableTITLE ul li {
+	color: #CCC;
+}
+.tableBODY tr .tableTITLE ul li {
+	color: #999;
+}
+.tableBODY tr .tableTITLE ul li {
+	font-size: 8px;
+}
+.tableBODY tr .tableBODY p {
+	text-align: left;
+}
+.tableBODY tr .tableBODY p strong {
+	color: #666;
+	text-align: left;
+}
+.email {
+	color: #FFF;
+}

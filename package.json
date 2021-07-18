@@ -1,0 +1,16 @@
+{
+  "name": "release-website",
+  "version": "0.0.1",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.15",
+    "postcss-cli": "^8.3.1",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.1.2"
+  },
+  "scripts": {
+    "dev": "NODE_ENV=development postcss public/stylesheets/main.css -o public/stylesheets/compiled.css -w",
+    "build": "postcss public/stylesheets/main.css -o public/stylesheets/compiled.css"
+  }
+}

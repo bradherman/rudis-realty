@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'BlairMdITC TT';
+    src: url('../fonts/BlairMdITCTTMedium.eot');
+    src: local('BlairMdITC TT Medium'), local('BlairMdITCTTMedium'),
+        url('../fonts/BlairMdITCTTMedium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/BlairMdITCTTMedium.woff2') format('woff2'),
+        url('../fonts/BlairMdITCTTMedium.woff') format('woff'),
+        url('../fonts/BlairMdITCTTMedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}

@@ -17,10 +17,9 @@ Site is currently static HTML and builds with [Tailwindcss](https://tailwindcss.
 
 TODO:
 
-1) Add content sections
+
 2) Connect contact to Mailchimp
 3) Set up Google Analytics
-4) Figure out DNS
 5) Deploy to Clouodflare
 
 
